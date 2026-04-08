@@ -11,16 +11,15 @@ Developed as part of a university group project (4 students)
 
 ## Project Report
 The project report contains detailed explanation of the project, algorithms, code snippets, and program output.  
-You can view or download the full report here:  
-[Hospital Management System Report](https://github.com/ArwaaaAli/Hospital-Management-System/blob/main/HospitalManagementSystem_Report.pdf)
+You can **download the full report** here:  
+[Download Hospital Management System Report](https://github.com/ArwaaaAli/Hospital-Management-System/raw/main/HospitalManagementSystem_Report.pdf)
 
 ## Project Files
 - Full project code: `src`, `.project`, `.classpath`  
 - Screenshots of the code and program output included in the project files  
 
 ## Sample Output
-![Output 1](screenshots/output1.png)
-![Output 2](screenshots/output2.png)
+![Program Output](screenshots/output.png)
 
 ## How to Run
 1. Clone or download the project from GitHub:  
