@@ -10,7 +10,7 @@ Developed as part of a university group project (4 students)
 ## Project Report
 The project report contains detailed explanations, algorithms, code snippets, and program output.  
 You can download the full report here:  
-[Download Hospital Management System Report](https://github.com/ArwaaaAli/Hospital-Management-System/raw/main/HospitalManagementSystem_Report.pdf)
+[Download Hospital Management System Report](HospitalManagementSystem_Report.pdf)
 
 ## Project Files
 - Full project code: `src`, `.project`, `.classpath`  
