@@ -10,22 +10,17 @@ project implements a **basic Hospital Management System** using core data struct
 Developed as part of a university group project (4 students)
 
 ## Project Report
-The project report contains:
-- Detailed explanation of the project and problem statement  
-- Algorithms and data structures used:  
-  - **Linked List** – for Patient Records  
-  - **Priority Queue** – for Emergency Queue  
-  - **Stack** – for Treatment History  
-  - **Hash Table** – for Doctor Assignments  
-- Testing process with example patients and doctors  
-- Code snippets for each module and corresponding output  
-
+The project report contains detailed explanation of the project, algorithms, code snippets, and program output.  
 You can view or download the full report here:  
-[Project Report](https://github.com/ArwaaaAli/Hospital-Management-System/blob/main/Project_Report.pdf)
+[Hospital Management System Report](https://github.com/ArwaaaAli/Hospital-Management-System/blob/main/HospitalManagementSystem_Report.pdf)
 
 ## Project Files
 - Full project code: `src`, `.project`, `.classpath`  
-- Screenshots of the code and output included in the project files  
+- Screenshots of the code and program output included in the project files  
+
+## Sample Output
+![Output 1](screenshots/output1.png)
+![Output 2](screenshots/output2.png)
 
 ## How to Run
 1. Clone or download the project from GitHub:  
@@ -35,4 +30,4 @@ You can view or download the full report here:
    - Patient management (Linked List)  
    - Emergency queue (Priority Queue)  
    - Treatment history (Stack)  
-   - Doctor assignments (Hash Table)  
+   - Doctor assignments (Hash Table)
